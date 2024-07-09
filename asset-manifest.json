@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/ElisPage/static/css/main.ff02f4b5.css",
+    "main.js": "/ElisPage/static/js/main.2e6a97d0.js",
+    "static/js/453.ede2c593.chunk.js": "/ElisPage/static/js/453.ede2c593.chunk.js",
+    "static/media/Author.jpg": "/ElisPage/static/media/Author.1332bb4269c33bc7939d.jpg",
+    "index.html": "/ElisPage/index.html",
+    "main.ff02f4b5.css.map": "/ElisPage/static/css/main.ff02f4b5.css.map",
+    "main.2e6a97d0.js.map": "/ElisPage/static/js/main.2e6a97d0.js.map",
+    "453.ede2c593.chunk.js.map": "/ElisPage/static/js/453.ede2c593.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ff02f4b5.css",
+    "static/js/main.2e6a97d0.js"
+  ]
+}
